@@ -39,6 +39,6 @@ Este  projecto é uma landing page para um site de venda de carros.
 <br> 
 
 ## 🔖 Layout
-Você pode acessar o layout deste projecto através [deste link](https://www.figma.com/file/9hqVTh38aAnG8o4lvCPQW3/Habits-(i)-(Community)?node-id=6%3A343&t=1t3BrqhxqeIJsMZA-0). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
+Você pode acessar o layout deste projecto através [deste link](https://www.figma.com/file/YDb7vqbYoY8v0iCucef4kN/By-My-Car?node-id=1%3A3&t=fHajFh3q15FV00zt-0). É necessário ter um conta no  [Figma](https://figma.com) para acessar.
 
 
